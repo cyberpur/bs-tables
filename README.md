@@ -1,2 +1,5 @@
-# teampage
-Team page design for Imagine Cyberpur Contest
+# Cyberpur Platform
+
+## WebApp Learning Series
+
+Making tables with HTML, Bootstrap Css 
